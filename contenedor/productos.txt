@@ -1,0 +1,32 @@
+[
+  {
+    "nombre_producto": "Escuadra",
+    "Precio": 199.45,
+    "url_de_producto": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": 1
+  },
+  {
+    "nombre_producto": "Globo Terráqueo",
+    "Precio": 345.67,
+    "url_de_producto": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+    "id": 2
+  },
+  {
+    "nombre_producto": "Calculadora",
+    "Precio": 234.56,
+    "url_de_producto": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+    "id": 3
+  },
+  {
+    "nombre_producto": "pollo",
+    "Precio": "152",
+    "url_de_producto": "null",
+    "id": 4
+  },
+  {
+    "nombre_producto": "pollo",
+    "Precio": "152",
+    "url_de_producto": "null",
+    "id": 5
+  }
+]
